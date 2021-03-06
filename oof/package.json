@@ -1,0 +1,11 @@
+{
+  "name": "oof",
+  "version": "1.0.0",
+  "description": "yeah",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run"
+  },
+  "author": "satvik64",
+  "license": "ISC"
+}
